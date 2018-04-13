@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "09ecc840c90d1feec99bf93aecde82f4"
+build_time: [1523607741, 780395000]
+inputs:
+  "/Users/mrx/Xcode/TextRecognition/TextRecognition/ViewController.swift": [1523607740, 0]
+  "/Users/mrx/Xcode/TextRecognition/TextRecognition/AppDelegate.swift": [1523542106, 0]

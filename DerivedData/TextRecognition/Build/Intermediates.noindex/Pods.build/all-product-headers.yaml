@@ -1,0 +1,1756 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/mrx/Xcode/TextRecognition/DerivedData/TextRecognition/Build/Products/Debug-iphoneos/Pods_TextRecognition.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TextRecognition-umbrella.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/Target Support Files/Pods-TextRecognition/Pods-TextRecognition-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TextRecognition-Swift.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/DerivedData/TextRecognition/Build/Products/Debug-iphoneos/Pods_TextRecognition.framework/Headers/Pods_TextRecognition-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mrx/Xcode/TextRecognition/DerivedData/TextRecognition/Build/Products/Debug-iphoneos/Pods_TextRecognition.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/DerivedData/TextRecognition/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-TextRecognition.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mrx/Xcode/TextRecognition/DerivedData/TextRecognition/Build/Products/Debug-iphoneos/TesseractOCRiOS/TesseractOCR.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "G8Constants.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/G8Constants.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8RecognitionOperation.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/G8RecognitionOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8RecognizedBlock.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/G8RecognizedBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8Tesseract.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/G8Tesseract.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8TesseractDelegate.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/G8TesseractDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8TesseractParameters.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/G8TesseractParameters.h"
+        },
+        {
+          'type': 'file',
+          'name': "TesseractOCR-Swift.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/DerivedData/TextRecognition/Build/Products/Debug-iphoneos/TesseractOCRiOS/TesseractOCR.framework/Headers/TesseractOCR-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TesseractOCR.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/TesseractOCR.h"
+        },
+        {
+          'type': 'file',
+          'name': "TesseractOCRiOS-umbrella.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/Target Support Files/TesseractOCRiOS/TesseractOCRiOS-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+G8Filters.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/UIImage+G8Filters.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+G8FixOrientation.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/UIImage+G8FixOrientation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mrx/Xcode/TextRecognition/DerivedData/TextRecognition/Build/Products/Debug-iphoneos/TesseractOCRiOS/TesseractOCR.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/DerivedData/TextRecognition/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/TesseractOCRiOS.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mrx/Xcode/TextRecognition/DerivedData/TextRecognition/Build/Products/Debug-iphoneos/TesseractOCRiOS/TesseractOCR.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "adaptive.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/adaptive.h"
+        },
+        {
+          'type': 'file',
+          'name': "alignedblob.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/alignedblob.h"
+        },
+        {
+          'type': 'file',
+          'name': "allheaders.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/allheaders.h"
+        },
+        {
+          'type': 'file',
+          'name': "alltypes.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/alltypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "altlist.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/altlist.h"
+        },
+        {
+          'type': 'file',
+          'name': "ambigs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ambigs.h"
+        },
+        {
+          'type': 'file',
+          'name': "apitypes.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/apitypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "array.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/array.h"
+        },
+        {
+          'type': 'file',
+          'name': "arrayaccess.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/arrayaccess.h"
+        },
+        {
+          'type': 'file',
+          'name': "associate.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/associate.h"
+        },
+        {
+          'type': 'file',
+          'name': "baseapi.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/baseapi.h"
+        },
+        {
+          'type': 'file',
+          'name': "basedir.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/basedir.h"
+        },
+        {
+          'type': 'file',
+          'name': "baselinedetect.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/baselinedetect.h"
+        },
+        {
+          'type': 'file',
+          'name': "bbgrid.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/bbgrid.h"
+        },
+        {
+          'type': 'file',
+          'name': "bbuffer.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/bbuffer.h"
+        },
+        {
+          'type': 'file',
+          'name': "beam_search.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/beam_search.h"
+        },
+        {
+          'type': 'file',
+          'name': "bilateral.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/bilateral.h"
+        },
+        {
+          'type': 'file',
+          'name': "bits16.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/bits16.h"
+        },
+        {
+          'type': 'file',
+          'name': "bitvec.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/bitvec.h"
+        },
+        {
+          'type': 'file',
+          'name': "bitvector.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/bitvector.h"
+        },
+        {
+          'type': 'file',
+          'name': "blamer.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/blamer.h"
+        },
+        {
+          'type': 'file',
+          'name': "blckerr.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/blckerr.h"
+        },
+        {
+          'type': 'file',
+          'name': "blkocc.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/blkocc.h"
+        },
+        {
+          'type': 'file',
+          'name': "blobbox.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/blobbox.h"
+        },
+        {
+          'type': 'file',
+          'name': "blobclass.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/blobclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "blobgrid.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/blobgrid.h"
+        },
+        {
+          'type': 'file',
+          'name': "blobs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/blobs.h"
+        },
+        {
+          'type': 'file',
+          'name': "blread.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/blread.h"
+        },
+        {
+          'type': 'file',
+          'name': "bmf.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/bmf.h"
+        },
+        {
+          'type': 'file',
+          'name': "bmp.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/bmp.h"
+        },
+        {
+          'type': 'file',
+          'name': "bmp_8.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/bmp_8.h"
+        },
+        {
+          'type': 'file',
+          'name': "boxchar.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/boxchar.h"
+        },
+        {
+          'type': 'file',
+          'name': "boxread.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/boxread.h"
+        },
+        {
+          'type': 'file',
+          'name': "boxword.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/boxword.h"
+        },
+        {
+          'type': 'file',
+          'name': "cached_file.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cached_file.h"
+        },
+        {
+          'type': 'file',
+          'name': "callcpp.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/callcpp.h"
+        },
+        {
+          'type': 'file',
+          'name': "capi.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/capi.h"
+        },
+        {
+          'type': 'file',
+          'name': "ccbord.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/ccbord.h"
+        },
+        {
+          'type': 'file',
+          'name': "ccnontextdetect.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ccnontextdetect.h"
+        },
+        {
+          'type': 'file',
+          'name': "ccstruct.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ccstruct.h"
+        },
+        {
+          'type': 'file',
+          'name': "ccutil.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ccutil.h"
+        },
+        {
+          'type': 'file',
+          'name': "char_altlist.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/char_altlist.h"
+        },
+        {
+          'type': 'file',
+          'name': "char_bigrams.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/char_bigrams.h"
+        },
+        {
+          'type': 'file',
+          'name': "char_samp.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/char_samp.h"
+        },
+        {
+          'type': 'file',
+          'name': "char_samp_enum.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/char_samp_enum.h"
+        },
+        {
+          'type': 'file',
+          'name': "char_samp_set.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/char_samp_set.h"
+        },
+        {
+          'type': 'file',
+          'name': "char_set.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/char_set.h"
+        },
+        {
+          'type': 'file',
+          'name': "chop.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/chop.h"
+        },
+        {
+          'type': 'file',
+          'name': "chopper.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/chopper.h"
+        },
+        {
+          'type': 'file',
+          'name': "cjkpitch.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cjkpitch.h"
+        },
+        {
+          'type': 'file',
+          'name': "classifier_base.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/classifier_base.h"
+        },
+        {
+          'type': 'file',
+          'name': "classifier_factory.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/classifier_factory.h"
+        },
+        {
+          'type': 'file',
+          'name': "classify.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/classify.h"
+        },
+        {
+          'type': 'file',
+          'name': "clst.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/clst.h"
+        },
+        {
+          'type': 'file',
+          'name': "cluster.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cluster.h"
+        },
+        {
+          'type': 'file',
+          'name': "clusttool.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/clusttool.h"
+        },
+        {
+          'type': 'file',
+          'name': "colfind.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/colfind.h"
+        },
+        {
+          'type': 'file',
+          'name': "colpartition.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/colpartition.h"
+        },
+        {
+          'type': 'file',
+          'name': "colpartitiongrid.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/colpartitiongrid.h"
+        },
+        {
+          'type': 'file',
+          'name': "colpartitionset.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/colpartitionset.h"
+        },
+        {
+          'type': 'file',
+          'name': "commandlineflags.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/commandlineflags.h"
+        },
+        {
+          'type': 'file',
+          'name': "commontraining.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/commontraining.h"
+        },
+        {
+          'type': 'file',
+          'name': "con_comp.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/con_comp.h"
+        },
+        {
+          'type': 'file',
+          'name': "config_auto.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/config_auto.h"
+        },
+        {
+          'type': 'file',
+          'name': "config_auto.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/config_auto.h"
+        },
+        {
+          'type': 'file',
+          'name': "const.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/const.h"
+        },
+        {
+          'type': 'file',
+          'name': "control.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/control.h"
+        },
+        {
+          'type': 'file',
+          'name': "conv_net_classifier.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/conv_net_classifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "coutln.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/coutln.h"
+        },
+        {
+          'type': 'file',
+          'name': "crakedge.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/crakedge.h"
+        },
+        {
+          'type': 'file',
+          'name': "cube_const.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cube_const.h"
+        },
+        {
+          'type': 'file',
+          'name': "cube_line_object.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cube_line_object.h"
+        },
+        {
+          'type': 'file',
+          'name': "cube_line_segmenter.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cube_line_segmenter.h"
+        },
+        {
+          'type': 'file',
+          'name': "cube_object.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cube_object.h"
+        },
+        {
+          'type': 'file',
+          'name': "cube_reco_context.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cube_reco_context.h"
+        },
+        {
+          'type': 'file',
+          'name': "cube_search_object.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cube_search_object.h"
+        },
+        {
+          'type': 'file',
+          'name': "cube_tuning_params.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cube_tuning_params.h"
+        },
+        {
+          'type': 'file',
+          'name': "cube_utils.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cube_utils.h"
+        },
+        {
+          'type': 'file',
+          'name': "cubeclassifier.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cubeclassifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "cutil.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cutil.h"
+        },
+        {
+          'type': 'file',
+          'name': "cutil_class.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cutil_class.h"
+        },
+        {
+          'type': 'file',
+          'name': "cutoffs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/cutoffs.h"
+        },
+        {
+          'type': 'file',
+          'name': "danerror.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/danerror.h"
+        },
+        {
+          'type': 'file',
+          'name': "dawg.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/dawg.h"
+        },
+        {
+          'type': 'file',
+          'name': "dawg_cache.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/dawg_cache.h"
+        },
+        {
+          'type': 'file',
+          'name': "degradeimage.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/degradeimage.h"
+        },
+        {
+          'type': 'file',
+          'name': "detlinefit.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/detlinefit.h"
+        },
+        {
+          'type': 'file',
+          'name': "devanagari_processing.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/devanagari_processing.h"
+        },
+        {
+          'type': 'file',
+          'name': "dewarp.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/dewarp.h"
+        },
+        {
+          'type': 'file',
+          'name': "dict.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/dict.h"
+        },
+        {
+          'type': 'file',
+          'name': "docqual.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/docqual.h"
+        },
+        {
+          'type': 'file',
+          'name': "doubleptr.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/doubleptr.h"
+        },
+        {
+          'type': 'file',
+          'name': "dppoint.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/dppoint.h"
+        },
+        {
+          'type': 'file',
+          'name': "drawedg.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/drawedg.h"
+        },
+        {
+          'type': 'file',
+          'name': "drawfx.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/drawfx.h"
+        },
+        {
+          'type': 'file',
+          'name': "drawtord.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/drawtord.h"
+        },
+        {
+          'type': 'file',
+          'name': "edgblob.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/edgblob.h"
+        },
+        {
+          'type': 'file',
+          'name': "edgloop.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/edgloop.h"
+        },
+        {
+          'type': 'file',
+          'name': "efio.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/efio.h"
+        },
+        {
+          'type': 'file',
+          'name': "elst.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/elst.h"
+        },
+        {
+          'type': 'file',
+          'name': "elst2.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/elst2.h"
+        },
+        {
+          'type': 'file',
+          'name': "emalloc.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/emalloc.h"
+        },
+        {
+          'type': 'file',
+          'name': "endianness.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/endianness.h"
+        },
+        {
+          'type': 'file',
+          'name': "environ.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/environ.h"
+        },
+        {
+          'type': 'file',
+          'name': "equationdetect.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/equationdetect.h"
+        },
+        {
+          'type': 'file',
+          'name': "equationdetectbase.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/equationdetectbase.h"
+        },
+        {
+          'type': 'file',
+          'name': "errcode.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/errcode.h"
+        },
+        {
+          'type': 'file',
+          'name': "errorcounter.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/errorcounter.h"
+        },
+        {
+          'type': 'file',
+          'name': "extern.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/extern.h"
+        },
+        {
+          'type': 'file',
+          'name': "extract.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/extract.h"
+        },
+        {
+          'type': 'file',
+          'name': "featdefs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/featdefs.h"
+        },
+        {
+          'type': 'file',
+          'name': "feature_base.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/feature_base.h"
+        },
+        {
+          'type': 'file',
+          'name': "feature_bmp.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/feature_bmp.h"
+        },
+        {
+          'type': 'file',
+          'name': "feature_chebyshev.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/feature_chebyshev.h"
+        },
+        {
+          'type': 'file',
+          'name': "feature_hybrid.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/feature_hybrid.h"
+        },
+        {
+          'type': 'file',
+          'name': "fileerr.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/fileerr.h"
+        },
+        {
+          'type': 'file',
+          'name': "fileio.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/fileio.h"
+        },
+        {
+          'type': 'file',
+          'name': "findseam.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/findseam.h"
+        },
+        {
+          'type': 'file',
+          'name': "fixspace.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/fixspace.h"
+        },
+        {
+          'type': 'file',
+          'name': "flexfx.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/flexfx.h"
+        },
+        {
+          'type': 'file',
+          'name': "float2int.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/float2int.h"
+        },
+        {
+          'type': 'file',
+          'name': "fontinfo.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/fontinfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "fpchop.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/fpchop.h"
+        },
+        {
+          'type': 'file',
+          'name': "fpoint.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/fpoint.h"
+        },
+        {
+          'type': 'file',
+          'name': "freelist.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/freelist.h"
+        },
+        {
+          'type': 'file',
+          'name': "freetype.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/freetype.h"
+        },
+        {
+          'type': 'file',
+          'name': "fxdefs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/fxdefs.h"
+        },
+        {
+          'type': 'file',
+          'name': "gap_map.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/gap_map.h"
+        },
+        {
+          'type': 'file',
+          'name': "genblob.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/genblob.h"
+        },
+        {
+          'type': 'file',
+          'name': "genericheap.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/genericheap.h"
+        },
+        {
+          'type': 'file',
+          'name': "genericvector.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/genericvector.h"
+        },
+        {
+          'type': 'file',
+          'name': "gettimeofday.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/gettimeofday.h"
+        },
+        {
+          'type': 'file',
+          'name': "globaloc.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/globaloc.h"
+        },
+        {
+          'type': 'file',
+          'name': "globals.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/globals.h"
+        },
+        {
+          'type': 'file',
+          'name': "gplot.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/gplot.h"
+        },
+        {
+          'type': 'file',
+          'name': "gradechop.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/gradechop.h"
+        },
+        {
+          'type': 'file',
+          'name': "hashfn.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/hashfn.h"
+        },
+        {
+          'type': 'file',
+          'name': "heap.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/heap.h"
+        },
+        {
+          'type': 'file',
+          'name': "helpers.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/helpers.h"
+        },
+        {
+          'type': 'file',
+          'name': "host.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/host.h"
+        },
+        {
+          'type': 'file',
+          'name': "hpdsizes.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/hpdsizes.h"
+        },
+        {
+          'type': 'file',
+          'name': "hybrid_neural_net_classifier.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/hybrid_neural_net_classifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "icuerrorcode.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/icuerrorcode.h"
+        },
+        {
+          'type': 'file',
+          'name': "imagefind.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/imagefind.h"
+        },
+        {
+          'type': 'file',
+          'name': "imageio.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/imageio.h"
+        },
+        {
+          'type': 'file',
+          'name': "indexmapbidi.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/indexmapbidi.h"
+        },
+        {
+          'type': 'file',
+          'name': "input_file_buffer.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/input_file_buffer.h"
+        },
+        {
+          'type': 'file',
+          'name': "intfeaturedist.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/intfeaturedist.h"
+        },
+        {
+          'type': 'file',
+          'name': "intfeaturemap.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/intfeaturemap.h"
+        },
+        {
+          'type': 'file',
+          'name': "intfeaturespace.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/intfeaturespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "intfx.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/intfx.h"
+        },
+        {
+          'type': 'file',
+          'name': "intmatcher.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/intmatcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "intproto.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/intproto.h"
+        },
+        {
+          'type': 'file',
+          'name': "ipoints.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ipoints.h"
+        },
+        {
+          'type': 'file',
+          'name': "jbclass.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/jbclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "kdpair.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/kdpair.h"
+        },
+        {
+          'type': 'file',
+          'name': "kdtree.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/kdtree.h"
+        },
+        {
+          'type': 'file',
+          'name': "lang_mod_edge.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/lang_mod_edge.h"
+        },
+        {
+          'type': 'file',
+          'name': "lang_model.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/lang_model.h"
+        },
+        {
+          'type': 'file',
+          'name': "language_model.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/language_model.h"
+        },
+        {
+          'type': 'file',
+          'name': "leptwin.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/leptwin.h"
+        },
+        {
+          'type': 'file',
+          'name': "ligature_table.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ligature_table.h"
+        },
+        {
+          'type': 'file',
+          'name': "linefind.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/linefind.h"
+        },
+        {
+          'type': 'file',
+          'name': "linlsq.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/linlsq.h"
+        },
+        {
+          'type': 'file',
+          'name': "list.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/list.h"
+        },
+        {
+          'type': 'file',
+          'name': "listio.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/listio.h"
+        },
+        {
+          'type': 'file',
+          'name': "lm_consistency.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/lm_consistency.h"
+        },
+        {
+          'type': 'file',
+          'name': "lm_pain_points.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/lm_pain_points.h"
+        },
+        {
+          'type': 'file',
+          'name': "lm_state.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/lm_state.h"
+        },
+        {
+          'type': 'file',
+          'name': "lsterr.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/lsterr.h"
+        },
+        {
+          'type': 'file',
+          'name': "ltrresultiterator.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ltrresultiterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "makechop.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/makechop.h"
+        },
+        {
+          'type': 'file',
+          'name': "makerow.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/makerow.h"
+        },
+        {
+          'type': 'file',
+          'name': "mastertrainer.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/mastertrainer.h"
+        },
+        {
+          'type': 'file',
+          'name': "matchdefs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/matchdefs.h"
+        },
+        {
+          'type': 'file',
+          'name': "mathfix.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/mathfix.h"
+        },
+        {
+          'type': 'file',
+          'name': "matrix.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/matrix.h"
+        },
+        {
+          'type': 'file',
+          'name': "measure.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/measure.h"
+        },
+        {
+          'type': 'file',
+          'name': "memry.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/memry.h"
+        },
+        {
+          'type': 'file',
+          'name': "mergenf.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/mergenf.h"
+        },
+        {
+          'type': 'file',
+          'name': "mf.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/mf.h"
+        },
+        {
+          'type': 'file',
+          'name': "mfdefs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/mfdefs.h"
+        },
+        {
+          'type': 'file',
+          'name': "mfoutline.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/mfoutline.h"
+        },
+        {
+          'type': 'file',
+          'name': "mfx.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/mfx.h"
+        },
+        {
+          'type': 'file',
+          'name': "mod128.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/mod128.h"
+        },
+        {
+          'type': 'file',
+          'name': "morph.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/morph.h"
+        },
+        {
+          'type': 'file',
+          'name': "mutableiterator.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/mutableiterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "ndminx.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ndminx.h"
+        },
+        {
+          'type': 'file',
+          'name': "neural_net.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/neural_net.h"
+        },
+        {
+          'type': 'file',
+          'name': "neuron.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/neuron.h"
+        },
+        {
+          'type': 'file',
+          'name': "normalis.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/normalis.h"
+        },
+        {
+          'type': 'file',
+          'name': "normfeat.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/normfeat.h"
+        },
+        {
+          'type': 'file',
+          'name': "normmatch.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/normmatch.h"
+        },
+        {
+          'type': 'file',
+          'name': "normstrngs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/normstrngs.h"
+        },
+        {
+          'type': 'file',
+          'name': "nwmain.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/nwmain.h"
+        },
+        {
+          'type': 'file',
+          'name': "object_cache.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/object_cache.h"
+        },
+        {
+          'type': 'file',
+          'name': "oclkernels.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/oclkernels.h"
+        },
+        {
+          'type': 'file',
+          'name': "ocrblock.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ocrblock.h"
+        },
+        {
+          'type': 'file',
+          'name': "ocrclass.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ocrclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "ocrfeatures.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ocrfeatures.h"
+        },
+        {
+          'type': 'file',
+          'name': "ocrpara.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ocrpara.h"
+        },
+        {
+          'type': 'file',
+          'name': "ocrrow.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ocrrow.h"
+        },
+        {
+          'type': 'file',
+          'name': "oldbasel.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/oldbasel.h"
+        },
+        {
+          'type': 'file',
+          'name': "oldlist.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/oldlist.h"
+        },
+        {
+          'type': 'file',
+          'name': "olutil.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/olutil.h"
+        },
+        {
+          'type': 'file',
+          'name': "opencl_device_selection.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/opencl_device_selection.h"
+        },
+        {
+          'type': 'file',
+          'name': "openclwrapper.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/openclwrapper.h"
+        },
+        {
+          'type': 'file',
+          'name': "osdetect.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/osdetect.h"
+        },
+        {
+          'type': 'file',
+          'name': "otsuthr.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/otsuthr.h"
+        },
+        {
+          'type': 'file',
+          'name': "outfeat.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/outfeat.h"
+        },
+        {
+          'type': 'file',
+          'name': "outlines.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/outlines.h"
+        },
+        {
+          'type': 'file',
+          'name': "output.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/output.h"
+        },
+        {
+          'type': 'file',
+          'name': "pageiterator.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/pageiterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "pageres.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/pageres.h"
+        },
+        {
+          'type': 'file',
+          'name': "pango_font_info.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/pango_font_info.h"
+        },
+        {
+          'type': 'file',
+          'name': "paragraphs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/paragraphs.h"
+        },
+        {
+          'type': 'file',
+          'name': "paragraphs_internal.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/paragraphs_internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "params.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/params.h"
+        },
+        {
+          'type': 'file',
+          'name': "params_model.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/params_model.h"
+        },
+        {
+          'type': 'file',
+          'name': "params_training_featdef.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/params_training_featdef.h"
+        },
+        {
+          'type': 'file',
+          'name': "paramsd.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/paramsd.h"
+        },
+        {
+          'type': 'file',
+          'name': "pdblock.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/pdblock.h"
+        },
+        {
+          'type': 'file',
+          'name': "pgedit.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/pgedit.h"
+        },
+        {
+          'type': 'file',
+          'name': "picofeat.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/picofeat.h"
+        },
+        {
+          'type': 'file',
+          'name': "pithsync.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/pithsync.h"
+        },
+        {
+          'type': 'file',
+          'name': "pitsync1.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/pitsync1.h"
+        },
+        {
+          'type': 'file',
+          'name': "pix.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/pix.h"
+        },
+        {
+          'type': 'file',
+          'name': "platform.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/platform.h"
+        },
+        {
+          'type': 'file',
+          'name': "plotedges.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/plotedges.h"
+        },
+        {
+          'type': 'file',
+          'name': "points.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/points.h"
+        },
+        {
+          'type': 'file',
+          'name': "polyaprx.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/polyaprx.h"
+        },
+        {
+          'type': 'file',
+          'name': "polyblk.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/polyblk.h"
+        },
+        {
+          'type': 'file',
+          'name': "protos.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/protos.h"
+        },
+        {
+          'type': 'file',
+          'name': "ptra.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/ptra.h"
+        },
+        {
+          'type': 'file',
+          'name': "publictypes.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/publictypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "qrsequence.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/qrsequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "quadlsq.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/quadlsq.h"
+        },
+        {
+          'type': 'file',
+          'name': "quadratc.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/quadratc.h"
+        },
+        {
+          'type': 'file',
+          'name': "queue.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/queue.h"
+        },
+        {
+          'type': 'file',
+          'name': "quspline.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/quspline.h"
+        },
+        {
+          'type': 'file',
+          'name': "ratngs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ratngs.h"
+        },
+        {
+          'type': 'file',
+          'name': "readbarcode.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/readbarcode.h"
+        },
+        {
+          'type': 'file',
+          'name': "recog.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/recog.h"
+        },
+        {
+          'type': 'file',
+          'name': "rect.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/rect.h"
+        },
+        {
+          'type': 'file',
+          'name': "regutils.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/regutils.h"
+        },
+        {
+          'type': 'file',
+          'name': "rejctmap.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/rejctmap.h"
+        },
+        {
+          'type': 'file',
+          'name': "reject.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/reject.h"
+        },
+        {
+          'type': 'file',
+          'name': "render.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/render.h"
+        },
+        {
+          'type': 'file',
+          'name': "renderer.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/renderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "resource.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/resource.h"
+        },
+        {
+          'type': 'file',
+          'name': "resultiterator.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/resultiterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "sampleiterator.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/sampleiterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "scanedg.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/scanedg.h"
+        },
+        {
+          'type': 'file',
+          'name': "scanutils.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/scanutils.h"
+        },
+        {
+          'type': 'file',
+          'name': "scrollview.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/scrollview.h"
+        },
+        {
+          'type': 'file',
+          'name': "seam.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/seam.h"
+        },
+        {
+          'type': 'file',
+          'name': "search_column.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/search_column.h"
+        },
+        {
+          'type': 'file',
+          'name': "search_node.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/search_node.h"
+        },
+        {
+          'type': 'file',
+          'name': "search_object.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/search_object.h"
+        },
+        {
+          'type': 'file',
+          'name': "secname.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/secname.h"
+        },
+        {
+          'type': 'file',
+          'name': "serialis.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/serialis.h"
+        },
+        {
+          'type': 'file',
+          'name': "shapeclassifier.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/shapeclassifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "shapetable.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/shapetable.h"
+        },
+        {
+          'type': 'file',
+          'name': "sortflts.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/sortflts.h"
+        },
+        {
+          'type': 'file',
+          'name': "sorthelper.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/sorthelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "split.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/split.h"
+        },
+        {
+          'type': 'file',
+          'name': "stack.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/stack.h"
+        },
+        {
+          'type': 'file',
+          'name': "statistc.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/statistc.h"
+        },
+        {
+          'type': 'file',
+          'name': "stderr.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/stderr.h"
+        },
+        {
+          'type': 'file',
+          'name': "stepblob.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/stepblob.h"
+        },
+        {
+          'type': 'file',
+          'name': "stopper.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/stopper.h"
+        },
+        {
+          'type': 'file',
+          'name': "strcasestr.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/strcasestr.h"
+        },
+        {
+          'type': 'file',
+          'name': "string_32.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/string_32.h"
+        },
+        {
+          'type': 'file',
+          'name': "stringrenderer.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/stringrenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "strngs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/strngs.h"
+        },
+        {
+          'type': 'file',
+          'name': "strokewidth.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/strokewidth.h"
+        },
+        {
+          'type': 'file',
+          'name': "strtok_r.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/strtok_r.h"
+        },
+        {
+          'type': 'file',
+          'name': "structures.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/structures.h"
+        },
+        {
+          'type': 'file',
+          'name': "sudoku.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/sudoku.h"
+        },
+        {
+          'type': 'file',
+          'name': "svmnode.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/svmnode.h"
+        },
+        {
+          'type': 'file',
+          'name': "svutil.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/svutil.h"
+        },
+        {
+          'type': 'file',
+          'name': "tabfind.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tabfind.h"
+        },
+        {
+          'type': 'file',
+          'name': "tablefind.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tablefind.h"
+        },
+        {
+          'type': 'file',
+          'name': "tablerecog.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tablerecog.h"
+        },
+        {
+          'type': 'file',
+          'name': "tabvector.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tabvector.h"
+        },
+        {
+          'type': 'file',
+          'name': "tess_lang_mod_edge.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tess_lang_mod_edge.h"
+        },
+        {
+          'type': 'file',
+          'name': "tess_lang_model.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tess_lang_model.h"
+        },
+        {
+          'type': 'file',
+          'name': "tessbox.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tessbox.h"
+        },
+        {
+          'type': 'file',
+          'name': "tesscallback.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tesscallback.h"
+        },
+        {
+          'type': 'file',
+          'name': "tessclassifier.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tessclassifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "tessdatamanager.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tessdatamanager.h"
+        },
+        {
+          'type': 'file',
+          'name': "tessedit.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tessedit.h"
+        },
+        {
+          'type': 'file',
+          'name': "tesseract_cube_combiner.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tesseract_cube_combiner.h"
+        },
+        {
+          'type': 'file',
+          'name': "tesseractclass.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tesseractclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "tessopt.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tessopt.h"
+        },
+        {
+          'type': 'file',
+          'name': "tessvars.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tessvars.h"
+        },
+        {
+          'type': 'file',
+          'name': "textlineprojection.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/textlineprojection.h"
+        },
+        {
+          'type': 'file',
+          'name': "textord.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/textord.h"
+        },
+        {
+          'type': 'file',
+          'name': "thresholder.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/thresholder.h"
+        },
+        {
+          'type': 'file',
+          'name': "tlog.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tlog.h"
+        },
+        {
+          'type': 'file',
+          'name': "topitch.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/topitch.h"
+        },
+        {
+          'type': 'file',
+          'name': "tordmain.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tordmain.h"
+        },
+        {
+          'type': 'file',
+          'name': "tovars.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tovars.h"
+        },
+        {
+          'type': 'file',
+          'name': "tprintf.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tprintf.h"
+        },
+        {
+          'type': 'file',
+          'name': "trainingsample.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/trainingsample.h"
+        },
+        {
+          'type': 'file',
+          'name': "trainingsampleset.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/trainingsampleset.h"
+        },
+        {
+          'type': 'file',
+          'name': "trie.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/trie.h"
+        },
+        {
+          'type': 'file',
+          'name': "tuning_params.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tuning_params.h"
+        },
+        {
+          'type': 'file',
+          'name': "underlin.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/underlin.h"
+        },
+        {
+          'type': 'file',
+          'name': "unichar.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/unichar.h"
+        },
+        {
+          'type': 'file',
+          'name': "unicharmap.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/unicharmap.h"
+        },
+        {
+          'type': 'file',
+          'name': "unicharset.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/unicharset.h"
+        },
+        {
+          'type': 'file',
+          'name': "unicity_table.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/unicity_table.h"
+        },
+        {
+          'type': 'file',
+          'name': "unicodes.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/unicodes.h"
+        },
+        {
+          'type': 'file',
+          'name': "universalambigs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/universalambigs.h"
+        },
+        {
+          'type': 'file',
+          'name': "util.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/util.h"
+        },
+        {
+          'type': 'file',
+          'name': "vecfuncs.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/vecfuncs.h"
+        },
+        {
+          'type': 'file',
+          'name': "version.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/version.h"
+        },
+        {
+          'type': 'file',
+          'name': "watershed.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/watershed.h"
+        },
+        {
+          'type': 'file',
+          'name': "werd.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/werd.h"
+        },
+        {
+          'type': 'file',
+          'name': "werdit.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/werdit.h"
+        },
+        {
+          'type': 'file',
+          'name': "word_altlist.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/word_altlist.h"
+        },
+        {
+          'type': 'file',
+          'name': "word_list_lang_model.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/word_list_lang_model.h"
+        },
+        {
+          'type': 'file',
+          'name': "word_size_model.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/word_size_model.h"
+        },
+        {
+          'type': 'file',
+          'name': "word_unigrams.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/word_unigrams.h"
+        },
+        {
+          'type': 'file',
+          'name': "wordrec.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/wordrec.h"
+        },
+        {
+          'type': 'file',
+          'name': "wordseg.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/wordseg.h"
+        },
+        {
+          'type': 'file',
+          'name': "workingpartset.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/workingpartset.h"
+        },
+        {
+          'type': 'file',
+          'name': "xform2d.h",
+          'external-contents': "/Users/mrx/Xcode/TextRecognition/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/xform2d.h"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+framework module Pods_TextRecognitionTests {
+  umbrella header "Pods-TextRecognitionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
